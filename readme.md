@@ -18,6 +18,12 @@ Shtëpi-Ndërtese		82
 Oborr		        233
                     315
 
+Gjendja e vjetër			Gjendja e re		
+Nr.Parc	Siperfaqia		Nr.Parc	Siperfaqia	
+    03041-0	325	m²	    03041-1	94	m²
+			            03041-2	231	m²
+Gjithsej	325	m²	Gjithsej	325	m²
+
 ```
 
 # pronari
