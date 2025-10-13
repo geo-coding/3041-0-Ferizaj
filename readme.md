@@ -6,6 +6,7 @@ VLLAZNIM BASHKIMI
 Shtëpi-Ndërtese		52
 Oborr		        46
 98
+### ruhet1
 
 01469-0
 Shtëpi-Ndërtese		30
